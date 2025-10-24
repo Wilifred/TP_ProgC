@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    char c = "char";
+    char c = "C";
     short s = 1000;
     int i = 32;
     long int li = 4444L;
@@ -17,4 +17,5 @@ int main() {
 
     return 0;
 }
+
 
