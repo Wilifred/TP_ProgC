@@ -11,12 +11,13 @@ int main() {
     double d = 5.43;
     long double ld = 3.441414114L;
 
-    printf("char", c);
-    printf("short", s);
+    printf("char %c\n", c);
+    printf("short %d\n", s);
     
 
     return 0;
 }
+
 
 
 
