@@ -13,10 +13,17 @@ int main() {
 
     printf("char %c\n", c);
     printf("short %d\n", s);
-    
+    printf("int %d\n", i);
+    printf("long int %ld\n", li);
+    printf("long long int %lld\n", lli);
+
+    printf("float %.2f\n",f);
+    printf("double %.15lf\n",d);
+    printf("long double %.18Lf\n", ld);
 
     return 0;
 }
+
 
 
 
