@@ -10,14 +10,9 @@ printf("Multiplication %d\n",a*b);
 printf("Division %.2f\n",(double) a/b);
 printf("Modulo %d\n",a%b);  
 printf("a == b : %d\n", a == b);
-printf("a != b : %d\n", a != b);
-printf("a > b  : %d\n", a > b);
-printf("a < b  : %d\n", a < b);
-printf("a >= b : %d\n", a >= b);
-printf("a <= b : %d\n", a <= b);
-  
-  
+printf("a > b  : %d\n", a > b); 
 }
+
 
 
 
