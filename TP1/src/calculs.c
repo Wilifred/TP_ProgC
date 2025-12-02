@@ -3,7 +3,7 @@
 int main() {
     int num1 = 12;
     int num2 = 5;
-    char op = '+';
+    char op = '*';
 
     int resultat_int;
     double resultat_div;

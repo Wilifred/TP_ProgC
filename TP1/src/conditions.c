@@ -11,7 +11,6 @@ int main() {
             somme += i;
         }
         if (somme > 5000) {
-            printf("Somme dépassée (>%d) à i = %d\n", 5000, i);
             break;
         }
     }
